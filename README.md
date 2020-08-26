@@ -4,4 +4,5 @@ I had the opportunity to work with a company that needed emails scrapped and sto
 1. Logs in 
 2. Clicks on destination HTML 
 3. Enters Customer ID into search field 
-4. FInds account 5. Extract Email
+4. FInds account 
+5. Extract Email
