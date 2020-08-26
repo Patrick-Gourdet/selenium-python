@@ -2,7 +2,7 @@
 #Webdriver Selenium Script to find email and write to file 
 #Contracted by ANDVARIS
 #1st:Download Python34 
-#2nd:Donload Selenium and place it in the Python34 folder
+#2nd:Download Selenium and place it in the Python34 folder
 #dowload Chrome Driver point to driver in Program 
 
 from selenium import webdriver
